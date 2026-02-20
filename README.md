@@ -1,1 +1,3 @@
 # ocean-simulator
+
+MIT license.
